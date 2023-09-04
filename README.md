@@ -2,9 +2,9 @@
 A MagicMirror module to count your mistakes....
 
 Install 
-
+```bash
 git clone https://github.com/TheSwedishMaker/mistakeCounter
-
+```
 include the following in config.js 
 
 ```bash
