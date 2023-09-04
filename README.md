@@ -17,4 +17,7 @@ include the following in config.js
 },
 ```
 
+Add your own error sound by placing audio file in module folder - currently named errorSound.wav
+
+
 
