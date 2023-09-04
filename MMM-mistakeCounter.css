@@ -1,0 +1,31 @@
+.mistake-button {
+    width: 150px; /* Explicit width */
+    height: 150px; /* Explicit height */
+    font-size: 30px;
+    font-weight: bold; /* Changed from font-style to font-weight for bold */
+    cursor: pointer;
+    background-color: red;
+    border: 3px solid white;
+    color: white;
+    border-radius: 50%; /* Rounded fully */
+    transition: 0.3s;
+    margin-bottom: 25px;
+    display: flex; /* Added for centering text */
+    align-items: center; /* Center text vertically */
+    justify-content: center; /* Center text horizontally */
+}
+
+
+button:hover {
+    background-color: darkred; /* Slightly darker shade when hovered */
+}
+
+.mistakeCounter-count {
+    padding: 15px 15px;
+    font-size: 28px;
+    font-family: Arial;
+    color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
